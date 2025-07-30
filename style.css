@@ -6,7 +6,7 @@ html {
 
 body {
     height: 443px;
-    background-image: url(/img/MainBackground2.jpg);
+    background-image: url(MainBackground2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -471,7 +471,7 @@ body {
 .ReviewSection {
     position: relative;
     bottom: 25px;
-    background-image: url(/img/ReviewBackground.jpg);
+    background-image: url(ReviewBackground.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
