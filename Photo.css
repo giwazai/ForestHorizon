@@ -1,0 +1,167 @@
+body {
+    height: 443px;
+    width: 100%;
+    user-select: none;
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+
+.CheapRoomTittle {
+    color: rgb(0, 0, 0);
+    font-family: monospace;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.CheapRoomIMG {
+    height: 600px;
+    width: 700px;
+    margin-left: 20px;
+    border-radius: 30px;
+}
+
+.CheapRoomIMG2 {
+    height: 300px;
+    width: 370px;
+    margin-left: 20px;
+    margin-bottom: 300px;
+    border-radius: 30px;
+}
+
+.CheapRoomIMG4 {
+    height: 300px;
+    width: 360px;
+    margin-left: 20px;
+    margin-bottom: 300px;
+    border-radius: 30px;
+}
+
+.CheapRoomIMG3 {
+    height: 280px;
+    width: 760px;
+    margin-left: 20px;
+    border-radius: 30px;
+    position: relative;
+    left: 723px;
+    bottom: 284px;
+}
+
+
+/*-----------------------------------------------------------------------------------------  */
+
+
+.MiddleRoomDiv {
+    position: relative;
+    bottom: 200px;
+}
+
+.MiddleRoomTittle {
+    color: rgb(0, 0, 0);
+    font-family: monospace;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.MiddleRoomIMG {
+    height: 600px;
+    width: 700px;
+    margin-left: 20px;
+    border-radius: 30px;
+}
+
+.MiddleRoomIMG2 {
+    height: 300px;
+    width: 370px;
+    margin-left: 20px;
+    margin-bottom: 300px;
+    border-radius: 30px;
+}
+
+.MiddleRoomIMG4 {
+    height: 300px;
+    width: 360px;
+    margin-left: 20px;
+    margin-bottom: 300px;
+    border-radius: 30px;
+}
+
+.MiddleRoomIMG3 {
+    height: 280px;
+    width: 760px;
+    margin-left: 20px;
+    border-radius: 30px;
+    position: relative;
+    left: 723px;
+    bottom: 284px;
+}
+
+
+/*-----------------------------------------------------------------------------------------  */
+
+
+.RichRoomDiv {
+    position: relative;
+    bottom: 400px;
+}
+
+.RichRoomTittle {
+    color: rgb(0, 0, 0);
+    font-family: monospace;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.RichRoomIMG {
+    height: 600px;
+    width: 700px;
+    margin-left: 20px;
+    border-radius: 30px;
+}
+
+.RichRoomIMG2 {
+    height: 300px;
+    width: 370px;
+    margin-left: 20px;
+    margin-bottom: 300px;
+    border-radius: 30px;
+}
+
+.RichRoomIMG4 {
+    height: 300px;
+    width: 360px;
+    margin-left: 20px;
+    margin-bottom: 300px;
+    border-radius: 30px;
+}
+
+.RichRoomIMG3 {
+    height: 280px;
+    width: 760px;
+    margin-left: 20px;
+    border-radius: 30px;
+    position: relative;
+    left: 723px;
+    bottom: 284px;
+}
+
+.BackToMainDiv{
+    text-align: center;
+    position: relative;
+    bottom: 600px;
+}
+
+.BackToMainButton {
+    font-family: monospace;
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+.BackToMainButton:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
