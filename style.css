@@ -305,7 +305,7 @@ body {
 }
 
 .AboutSection {
-    height: 712px;
+    height: 710px;
     text-align: center;
     background-color: rgb(146, 146, 146);
 }
@@ -352,7 +352,7 @@ body {
 
 
 .RoomsSection {
-    height: 2215px;
+    height: 2210px;
     margin-top: 410px;
     background-color: rgb(255, 255, 255);
     transition: background-color 1s ease-in-out;
@@ -822,9 +822,4 @@ body {
     position: relative;
     bottom: 70px;
     left: 160px;
-
 }
-
-
-
-
