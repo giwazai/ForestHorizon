@@ -356,7 +356,7 @@ body {
 
 
 .RoomsSection {
-    height: 2210px;
+    height: 2215px;
     margin-top: 410px;
     background-color: rgb(255, 255, 255);
     transition: background-color 1s ease-in-out;
@@ -828,4 +828,5 @@ body {
     left: 160px;
 
 }
+
 
