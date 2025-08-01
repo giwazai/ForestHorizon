@@ -4,10 +4,6 @@ html {
     scroll-behavior: smooth;
 }
 
-* {
-  box-sizing: border-box;
-}
-
 body {
     height: 443px;
     background-image: url(MainBackground2.jpg);
@@ -322,7 +318,7 @@ body {
 .AboutContainer {
     background-color: rgb(240, 164, 70);
     position: relative;
-    bottom: 110px;
+    bottom: 120px;
     height: 100%;
     width: 100%;
 }
@@ -828,6 +824,7 @@ body {
     left: 160px;
 
 }
+
 
 
 
