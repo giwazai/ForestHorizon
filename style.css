@@ -4,6 +4,10 @@ html {
     scroll-behavior: smooth;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 body {
     height: 443px;
     background-image: url(MainBackground2.jpg);
@@ -822,4 +826,5 @@ body {
     position: relative;
     bottom: 70px;
     left: 160px;
+
 }
